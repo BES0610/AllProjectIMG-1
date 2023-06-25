@@ -2,14 +2,12 @@
     {
         "id":"1",
         "AllSrc" : 
-            [
                 {
                     "src1": "https://bes0610.github.io/imPortofilo1.json/Main1.jpg",
                     "src2": "https://bes0610.github.io/imPortofilo1.json/Main1.jpg",
                     "src3": "https://bes0610.github.io/imPortofilo1.json/Main1.jpg",
                     "src4": "https://bes0610.github.io/imPortofilo1.json/Main1.jpg"
                 }
-            ]
         
     }
 ]

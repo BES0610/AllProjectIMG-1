@@ -1,8 +1,7 @@
 [
     {
         "id":"1",
-        "AllSrc" : 
-                [
+        AllSrc : 
                     {
                         "src1": "https://bes0610.github.io/imPortofilo1.json/Main1.jpg"
                     },
@@ -15,7 +14,6 @@
                     {
                         "src1": "https://bes0610.github.io/imPortofilo1.json/Main1.jpg"
                     },
-                ]
         
     }
 ]
